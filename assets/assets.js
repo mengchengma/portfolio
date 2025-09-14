@@ -41,25 +41,25 @@ export const assets = {
 export const workData = [
     {
         title: 'BlackJack Multiplayer Web Game',
-        description: 'React, TypeScript, Node.js, Socket.io',
+        description: 'Real-time multiplayer with React, TypeScript, Socket.io. Game rooms and betting system.',
         bgImage: '/work-1.png',
         link: 'https://github.com/WildUni/BlackJackWebGame'
     },
     {
         title: 'Rentally AI',
-        description: 'Full Stack AI-powered rental app',
+        description: 'Led team of 4. AI chatbot for recommendations, CRUD functionality, responsive UI.',
         bgImage: '/work-2.png',
         link: 'https://github.com/mengchengma/RentallyAI'
     },
     {
         title: 'Invoice Management Website',
-        description: 'Next.js with NeonDB PostgreSQL',
+        description: 'Led team of 3. Next.js with NeonDB PostgreSQL, secure NextAuth authentication.',
         bgImage: '/work-3.png',
         link: 'https://docs.google.com/presentation/d/1j-2uWl0zazudjv-c7rwZTj1YkvaMC1SGjNPKJX48IWI/edit?usp=sharing'
     },
     {
         title: 'Smart Attendance App',
-        description: 'Android Studio with Firebase',
+        description: 'Android app with Firebase. Device verification, QR codes, VPN detection.',
         bgImage: '/work-4.png',
         link: 'https://docs.google.com/presentation/d/1SnJIDbyFOkr1twMBBmlS1JK07Pt4_-mPJI54uxnlLvw/edit?usp=sharing'
     },
